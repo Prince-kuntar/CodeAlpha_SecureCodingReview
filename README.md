@@ -73,7 +73,7 @@ The skills developed through this project are directly transferable to:
 
 ## 🔍 For the Complete Technical Analysis
 
-**The detailed secure code review report with all technical findings, vulnerable code examples, and specific remediation instructions is available in [REPORT.md](REPORT.md)**
+**The detailed secure code review report with all technical findings, vulnerable code examples, and specific remediation instructions is available in [report.md](report.md)**
 
 The comprehensive report includes:
 - 12 categorized vulnerabilities with CVSS scoring
