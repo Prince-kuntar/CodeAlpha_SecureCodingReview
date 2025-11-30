@@ -1,8 +1,8 @@
 # **SECURE CODE REVIEW REPORT**
 
-**Report ID:** SCR-2024-001
-**Date:** December 18, 2024
-**Reviewer:** Security Team
+**Report ID:** CA-SCR-2025-11
+**Date:** November 28,2025
+**Reviewer:** Prince Damiano
 **Status:** CRITICAL
 
 ---
@@ -351,16 +351,15 @@ The current state of the Flask Blog Application presents an unacceptable securit
 ### **Appendix C: Tools Used**
 - Bandit (SAST)
 - Safety (Dependency Scanning)
-- JWT Tool (Token Analysis)
 - Manual testing tools (Burp Suite, curl)
 
 ---
 
 **Report Classification:** CONFIDENTIAL  
-**Distribution:** Development Team, Security Team, Management  
+**Distribution:** Prince Damiano  
 **Retention:** 2 years from date of issue
 
 **Prepared By:**  
-*Security Review Team*  
-*security@company.com*  
-*December 18, 2024*
+*Prince Damiano*  
+*kuntarprince@gmal.com*  
+*November 28,2025*
